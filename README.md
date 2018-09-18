@@ -2,7 +2,7 @@
 
 # Hallo mijn naam is: Mateusz (16 jaar)
 
-#1 Mijn hobby's zijn: 
+#H2 Mijn hobby's zijn: 
 **_-Gamen > lievelingssel > https://euw.leagueoflegends.com/en/
 
 **-sportschool**
